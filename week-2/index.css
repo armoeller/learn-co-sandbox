@@ -1,0 +1,20 @@
+p {
+    color: red;
+    }
+    
+    span {
+      color:green;
+    }
+    
+  .someClass {
+    color:blue;
+    font-size: 12px
+  }
+  
+  .anotherClass {
+    color: blanchedalmond;
+  }
+  
+  #someID {
+    color: mistyrose !important
+  }
