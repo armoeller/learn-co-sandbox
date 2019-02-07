@@ -1,2 +1,2 @@
 fetch ('https://api.github.com/users/armoeller')
-.then()
+.then((response))
